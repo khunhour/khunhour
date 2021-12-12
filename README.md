@@ -91,10 +91,10 @@
   
   # 📈 Stats
    <img
-   src="https://github-readme-stats.vercel.app/api?username=khunhour&show_icons=true&theme=radical&&hide_border=true"
-  />
+   src="https://github-readme-stats.vercel.app/api?username=khunhour&show_icons=true&theme=radical"
+  /></br>
   <img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=khunhour&layout=compact&&hide_border=true"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=khunhour&theme=radical&layout=compact"
   />
 
   
