@@ -1,15 +1,13 @@
-### Hi there 👋
-
 <img src="./header.png" />
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
   <div align="justify">
     <strong>
-      My name is Michael and I'm a Full-Stack developer who
-      loves to work with JavaScript technologies. Right now my mind is focused on
-      learning everything that is related to Web Development. I love to explore new
-      technologies and leverage them to solve real-life problems.
+      My name is Khunhour and I'm a Front-End developer from Cambodia, currently living in Japan.
+      I am eager to learn new things, and experience different kinds of technologies in the Web Development world.
+      Right now, I'm learning Javascript Back-End in order to become a Full-Stack developer (MERN stack).
+      Happy coding!
     </strong>
   </div>
 
