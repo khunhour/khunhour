@@ -88,6 +88,17 @@
       <br /><strong>Jest</strong>
     </td>
   </table>
+  
+  # 📈 Stats
+   <img
+   src="https://github-readme-stats.vercel.app/api?username=khunhour&show_icons=true&theme=radical&&hide_border=true"
+  />
+  <img 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=khunhour&layout=compact&&hide_border=true"
+  />
+
+  
+  
 <!--
 **khunhour/khunhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
