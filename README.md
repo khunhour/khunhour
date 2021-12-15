@@ -6,7 +6,7 @@
     <strong>
       My name is Khunhour and I'm a Front-End developer from Cambodia, currently living in Japan.
       I am eager to learn new things, and experience different kinds of technologies in the Web Development world.
-      Right now, I'm learning Javascript Back-End in order to become a Full-Stack developer (MERN stack).
+      Right now, I'm learning Javascript Front-End & Back-End in order to become a Full-Stack developer (MERN stack).
       Happy coding! 👨‍💻
     </strong>
   </div>
