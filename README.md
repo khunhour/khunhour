@@ -105,6 +105,15 @@
       />
       <br /><strong>Webpack</strong>
     </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://testing-library.com/img/logo-large.png"
+        width="48"
+        height="48"
+        alt="React Testing Library"
+      />
+      <br /><strong>React Testing Library</strong>
+    </td>
   </table>
   
   # 📈 Stats
