@@ -60,7 +60,7 @@
       />
       <br /><strong>React</strong>
     </td>
-<!--     <td align="center" height="108" width="108">
+    <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="48"
@@ -69,7 +69,9 @@
       />
       <br /><strong>Redux</strong>
     </td> -->
-        <td align="center" height="108" width="108">
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
@@ -96,7 +98,7 @@
       />
       <br /><strong>Jest</strong>
     </td>
-        <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
         width="48"
@@ -105,7 +107,7 @@
       />
       <br /><strong>Webpack</strong>
     </td>
-        <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://testing-library.com/img/logo-large.png"
         width="48"
@@ -114,7 +116,8 @@
       />
       <br /><strong>React Testing Library</strong>
     </td>
-  </table>
+  </tr>
+</table>
   
   # 📈 Stats
    <img
